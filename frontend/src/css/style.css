@@ -19,3 +19,7 @@ nav {
 .navbar-top{
     padding: 100px 0;
 }
+
+a, a:hover{
+    text-decoration: none;
+}
