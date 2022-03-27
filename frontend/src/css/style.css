@@ -2,6 +2,15 @@
     box-sizing: border-box;
 }
 
-.navbar-top{
+body {
     background: #F8F8FA;
+}
+
+nav {
+    display: block;
+}
+
+.navbar-top{
+    background: red;
+    padding: 100px 0;
 }
