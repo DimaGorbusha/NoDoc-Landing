@@ -10,6 +10,12 @@ nav {
     display: block;
 }
 
+.container-flex {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
 .navbar-top{
     padding: 100px 0;
 }
