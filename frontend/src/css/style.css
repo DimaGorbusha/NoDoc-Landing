@@ -22,6 +22,10 @@ nav {
     margin-right: 105px;
 }
 
+#logo-text{
+    margin-left: 203px;
+}
+
 .container-flex {
     display: flex;
     justify-content: space-between;
