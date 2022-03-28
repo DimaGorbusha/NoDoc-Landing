@@ -102,17 +102,27 @@ a, a:hover{
     text-decoration: none;
 }
 
+.container-offer{
+    margin-left: 201px;
+}
+
 .offer-heading{
     font-family: "gothampro_bold"; 
     font-size: 67px;
     color: #262626;
+    margin-top: 214px;
+    margin-bottom: 0;
 }
 
 .offer-main-text{
+    margin-top: 23px;
     font-family: "gothampro_medium";
     color: #888888;
 }
 
+.offer-button{
+    
+}
 
 @font-face {
     font-family: "gothampro_bold"; 
