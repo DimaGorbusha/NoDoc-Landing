@@ -125,6 +125,7 @@ a, a:hover{
     color: #FFFFFF;
     background: #8C2ED5;
     padding: 23px 154px 23px 154px;
+    margin-top: 105px;
     border-radius: 35px;
     transition: all 0.5s ease
 }
