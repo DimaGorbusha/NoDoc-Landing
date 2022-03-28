@@ -10,6 +10,14 @@ nav {
     display: block;
 }
 
+.menu-item{
+    display: inline-block;
+}
+
+.menu-item-spec{
+    margin-right: 105px;
+}
+
 .container-flex {
     display: flex;
     justify-content: space-between;
@@ -19,10 +27,11 @@ nav {
 .container-flex-menu{
     display: flex;
 	align-items: center;
+    text-decoration: none;
 }
 
 .navbar-top{
-    padding: 100px 0;
+    margin: 100px 0;
 }
 
 a, a:hover{
