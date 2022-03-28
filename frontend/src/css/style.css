@@ -156,20 +156,6 @@ a, a:hover{
     margin-bottom: 366px;
 }
 
-.img-adv{
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
-}
-
-.text-adv{
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
-}
-
 .advantages-user-block h2{
 
 }
