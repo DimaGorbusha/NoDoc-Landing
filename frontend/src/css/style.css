@@ -10,7 +10,7 @@ nav {
     display: block;
 }
 
-.menu-item{
+.menu-item .menu-button{
     display: inline-block;
 }
 
