@@ -148,9 +148,31 @@ a, a:hover{
     margin-top: 42px;
     margin-bottom: 366px;
     font-size: 36px;
-    font-family: "gothampro_medium";
+    font-family: "gothampro_light";
 }
 
+.container-adv{
+    margin-left: 195px;
+    margin-bottom: 366px;
+}
+
+.img-adv{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.text-adv{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.advantages-user-block h2{
+
+}
 
 @font-face {
     font-family: "gothampro_bold"; 
