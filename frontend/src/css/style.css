@@ -102,6 +102,18 @@ a, a:hover{
     text-decoration: none;
 }
 
+.offer-heading{
+    font-family: "gothampro_bold"; 
+    font-size: 67px;
+    color: #262626;
+}
+
+.offer-main-text{
+    font-family: "gothampro_medium";
+    color: #888888;
+}
+
+
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
