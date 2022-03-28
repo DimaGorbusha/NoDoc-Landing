@@ -38,6 +38,7 @@ nav {
 
 .menu-item-spec a:hover{
     text-decoration: underline;
+    color: #722ED1;
 }
 
 #logo-text{
@@ -45,7 +46,7 @@ nav {
     margin-left: 203px;
     color: #722ED1;
     margin-right: 140px;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 #menu-button-reg{
