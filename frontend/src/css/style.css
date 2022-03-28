@@ -156,6 +156,20 @@ a, a:hover{
     margin-bottom: 366px;
 }
 
+.img-adv{
+    display: flex;
+    align-items: center;
+}
+
+.text-adv{
+    display: flex;
+    align-items: center;
+}
+
+.adv-qr{
+    margin-right: 222px;
+}
+
 .advantages-user-block h2{
 
 }
