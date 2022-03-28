@@ -12,13 +12,14 @@ nav {
 
 .menu-item{
     display: inline-block;
+    text-decoration: none;
 }
 
 .menu-button{
     display: inline-block;
 }
 
-.menu-item-spec{
+.menu-item-spec a{
     margin-right: 105px;
     color: #262626;
     font-size: 15px;
@@ -32,7 +33,7 @@ nav {
 }
 
 #menu-button-reg{
-    padding: 10px 78px 7px 78px;  
+    padding: 10px 78px 10px 78px;  
     background: #FFFFFF;
     border-radius: 12px;
     color: #722ED1;
@@ -40,8 +41,24 @@ nav {
 }
 
 #menu-button-reg:hover{
-    color:#262626;
-    
+    color: #FFFFFF;
+    background: #722ED1;
+    transform: scale(1.1);
+}
+
+#menu-button-login{
+    padding: 16px 66px 16px 66px;
+    border-radius: 34px;
+    border: 2px solid #262626;
+    color: #262626;
+    font-size: 16px;
+    transition: all 0.5s ease  
+}
+
+#menu-button-login:hover{
+    color: #F8F8FA;
+    background: #262626;
+    transform: scale(1.1);
 }
 
 .container-flex {
