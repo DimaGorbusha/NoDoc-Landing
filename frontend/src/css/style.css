@@ -31,8 +31,17 @@ nav {
     font-size: 25px;
 }
 
-.menu-button-reg{
-    padding: 10px 78px 7px 78px;
+#menu-button-reg{
+    padding: 10px 78px 7px 78px;  
+    background: #FFFFFF;
+    border-radius: 12px;
+    color: #722ED1;
+    transition: all 0.5s ease
+}
+
+#menu-button-reg:hover{
+    color:#262626;
+    
 }
 
 .container-flex {
