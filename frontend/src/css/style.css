@@ -129,6 +129,7 @@ a, a:hover{
     padding: 23px 154px 23px 154px;
     border-radius: 35px;
     font-size: 24px;
+    display: inline-block;
     transition: all 0.5s ease
 }
 
@@ -139,12 +140,16 @@ a, a:hover{
 }
 
 .container-description{
-
+    margin-top: 517px;
+    margin-left: 195px;
 }
 
-.descr-img{
-
+.descr-text{
+    margin-top: 42px;
+    font-size: 36px;
+    font-family: "gothampro_medium";
 }
+
 
 @font-face {
     font-family: "gothampro_bold"; 
