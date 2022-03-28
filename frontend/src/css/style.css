@@ -15,14 +15,21 @@ nav {
     text-decoration: none;
 }
 
+#menu-main-text{
+    font-family: "gothampro_bold";
+
+}
+
 .menu-button{
     display: inline-block;
+    font-size: 15px;
 }
 
 .menu-item-spec a{
     margin-right: 105px;
     color: #262626;
     font-size: 15px;
+    transition: all 0.5s ease;
 }
 
 #logo-text{
@@ -37,7 +44,7 @@ nav {
     background: #FFFFFF;
     border-radius: 12px;
     color: #722ED1;
-    transition: all 0.5s ease
+    transition: all 0.5s ease;
 }
 
 #menu-button-reg:hover{
