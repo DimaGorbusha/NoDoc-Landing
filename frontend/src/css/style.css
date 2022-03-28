@@ -20,6 +20,10 @@ nav {
 
 }
 
+.menu-text{
+    font-family: "gothampro_light";
+}
+
 .menu-button{
     display: inline-block;
     font-size: 15px;
