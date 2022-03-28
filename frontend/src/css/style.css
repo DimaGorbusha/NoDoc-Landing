@@ -157,13 +157,17 @@ a, a:hover{
 }
 
 .img-adv{
+    margin-top: 89px;
     display: flex;
     align-items: center;
 }
 
 .text-adv{
+    margin-top: 34px;
     display: flex;
     align-items: center;
+    font-family: "gothampro_medium";
+    font-size: 30px;
 }
 
 .adv-qr{
@@ -171,7 +175,8 @@ a, a:hover{
 }
 
 .advantages-user-block h2{
-
+    font-family: "gothampro_bold";
+    font-size: 48px;
 }
 
 @font-face {
