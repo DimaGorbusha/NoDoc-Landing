@@ -44,6 +44,7 @@ nav {
 }
 
 #menu-button-reg{
+    font-family: "gothampro_medium";
     padding: 10px 78px 10px 78px;  
     background: #FFFFFF;
     border-radius: 12px;
@@ -58,6 +59,7 @@ nav {
 }
 
 #menu-button-login{
+    font-family: "gothampro_bold";
     padding: 16px 66px 16px 66px;
     border-radius: 34px;
     border: 2px solid #262626;
