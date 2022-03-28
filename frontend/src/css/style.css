@@ -10,7 +10,11 @@ nav {
     display: block;
 }
 
-.menu-item .menu-button{
+.menu-item{
+    display: inline-block;
+}
+
+.menu-button{
     display: inline-block;
 }
 
@@ -22,13 +26,15 @@ nav {
     display: flex;
     justify-content: space-between;
     text-align: center;
+    align-items: center;
+    text-decoration: none;
 }
 
-.container-flex-menu{
+/* .container-flex-menu{
     display: flex;
 	align-items: center;
     text-decoration: none;
-}
+} */
 
 .navbar-top{
     margin: 100px 0;
