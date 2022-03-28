@@ -121,7 +121,10 @@ a, a:hover{
 }
 
 .offer-button{
-    
+    font-family: "gothampro_medium";
+    color: #FFFFFF;
+    background: #8C2ED5;
+    padding: 23px 154px 23px 154px;
 }
 
 @font-face {
