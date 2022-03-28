@@ -116,6 +116,8 @@ a, a:hover{
 
 .offer-main-text{
     margin-top: 23px;
+    margin-bottom: 105px;
+    font-size: 25px;
     font-family: "gothampro_medium";
     color: #888888;
 }
@@ -125,8 +127,8 @@ a, a:hover{
     color: #FFFFFF;
     background: #8C2ED5;
     padding: 23px 154px 23px 154px;
-    margin-top: 105px;
     border-radius: 35px;
+    font-size: 24px;
     transition: all 0.5s ease
 }
 
