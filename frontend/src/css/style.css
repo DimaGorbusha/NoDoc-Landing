@@ -24,6 +24,13 @@ nav {
 
 #logo-text{
     margin-left: 203px;
+    color: #722ED1;
+    margin-right: 140px;
+    font-size: 25px;
+}
+
+#menu-main-item{
+    color: #262626;
 }
 
 .container-flex {
