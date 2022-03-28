@@ -16,6 +16,11 @@ nav {
     text-align: center;
 }
 
+.container-flex-menu{
+    display: flex;
+	align-items: center;
+}
+
 .navbar-top{
     padding: 100px 0;
 }
