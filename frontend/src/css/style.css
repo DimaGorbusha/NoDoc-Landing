@@ -20,6 +20,8 @@ nav {
 
 .menu-item-spec{
     margin-right: 105px;
+    color: #262626;
+    font-size: 15px;
 }
 
 #logo-text{
@@ -29,8 +31,8 @@ nav {
     font-size: 25px;
 }
 
-#menu-main-item{
-    color: #262626;
+.menu-button-reg{
+    padding: 10px 78px 7px 78px;
 }
 
 .container-flex {
