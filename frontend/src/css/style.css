@@ -36,7 +36,12 @@ nav {
     transition: all 0.5s ease;
 }
 
+.menu-item-spec a:hover{
+    text-decoration: underline;
+}
+
 #logo-text{
+    font-family: "gothampro_bold";
     margin-left: 203px;
     color: #722ED1;
     margin-right: 140px;
