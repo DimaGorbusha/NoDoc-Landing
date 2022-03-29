@@ -196,12 +196,22 @@ a, a:hover{
 
 .container-how-work{
     margin-left: 298px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+
 }
 
 .container-how-work h2{
     font-family: "gothampro_bold";
     font-size: 55px;
     color: #722ED1;
+}
+
+.footer-block{
+    background: url('../img/footer.png');
 }
 
 @font-face {
