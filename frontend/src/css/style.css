@@ -95,7 +95,7 @@ nav {
 } */
 
 .navbar-top{
-    margin: 91px 0;
+    margin: 91px 0 0 0;
 }
 
 a, a:hover{
@@ -103,21 +103,21 @@ a, a:hover{
 }
 
 .container-offer{
-    margin-left: 201px;
+    margin-left: 121px;
+    margin-top: 203px;
 }
 
 .offer-heading{
     font-family: "gothampro_bold"; 
-    font-size: 67px;
+    font-size: 48px;
     color: #262626;
-    margin-top: 214px;
     margin-bottom: 0;
 }
 
 .offer-main-text{
     margin-top: 23px;
-    margin-bottom: 75px;
-    font-size: 25px;
+    margin-bottom: 41px;
+    font-size: 19px;
     font-family: "gothampro_medium";
     color: #888888;
 }
@@ -126,9 +126,9 @@ a, a:hover{
     font-family: "gothampro_medium";
     color: #FFFFFF;
     background: #8C2ED5;
-    padding: 23px 154px 23px 154px;
+    padding: 13px 134px 13px 134px;
     border-radius: 35px;
-    font-size: 24px;
+    font-size: 19px;
     display: inline-block;
     transition: all 0.5s ease
 }
@@ -140,15 +140,15 @@ a, a:hover{
 }
 
 .container-description{
-    margin-top: 517px;
-    margin-left: 195px;
+    margin-top: 419px;
+    margin-left: 123px;
 }
 
 .descr-text{
-    margin-top: 42px;
+    margin-top: 34px;
     margin-bottom: 366px;
-    font-size: 36px;
-    font-family: "gothampro_light";
+    font-size: 28px;
+    font-family: "gothampro_medium";
 }
 
 .container-adv{
