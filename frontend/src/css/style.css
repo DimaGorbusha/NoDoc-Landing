@@ -187,6 +187,23 @@ a, a:hover{
     margin-left: 298px;
 }
 
+.container-docs h2{
+    font-family: "gothampro_bold";
+    font-size: 55px;
+    color: #722ED1;
+
+}
+
+.container-how-work{
+    margin-left: 298px;
+}
+
+.container-how-work h2{
+    font-family: "gothampro_bold";
+    font-size: 55px;
+    color: #722ED1;
+}
+
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
