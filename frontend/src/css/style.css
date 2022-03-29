@@ -152,8 +152,8 @@ a, a:hover{
 }
 
 .container-adv{
-    margin-left: 195px;
-    margin-bottom: 366px;
+    margin-left: 123px;
+    margin-bottom: 260px;
 }
 
 .img-adv{
@@ -167,7 +167,7 @@ a, a:hover{
     display: flex;
     align-items: center;
     font-family: "gothampro_medium";
-    font-size: 30px;
+    font-size: 23px;
 }
 
 .adv-qr{
