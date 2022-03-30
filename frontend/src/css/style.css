@@ -34,7 +34,7 @@ nav {
 .menu-item-spec a{
     margin-right: 88px;
     color: #262626;
-    font-size: 12px;
+    font-size: 17px;
     transition: all 0.5s ease;
 }
 
@@ -47,7 +47,7 @@ nav {
     font-family: "gothampro_medium";
     color: #722ED1;
     margin-right: 85px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #menu-button-reg{
@@ -56,7 +56,7 @@ nav {
     background: #FFFFFF;
     border-radius: 12px;
     color: #722ED1;
-    font-size: 13px;
+    font-size: 18px;
     transition: all 0.5s ease;
 }
 
@@ -72,7 +72,7 @@ nav {
     border-radius: 34px;
     border: 2px solid #262626;
     color: #262626;
-    font-size: 13px;
+    font-size: 18px;
     transition: all 0.5s ease  
 }
 
