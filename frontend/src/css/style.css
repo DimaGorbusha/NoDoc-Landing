@@ -70,6 +70,7 @@ nav {
 #menu-button-login{
     font-family: "gothampro_bold";
     padding: 10px 50px 10px 50px;
+    margin-right: 138px;
     border-radius: 34px;
     border: 2px solid #262626;
     color: #262626;
@@ -84,7 +85,7 @@ nav {
 }
 
 .container-flex-menu{
-    margin-left: 128px;
+    margin-left: 75px;
 }
 
 .container-flex {
