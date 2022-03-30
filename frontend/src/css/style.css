@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -208,6 +210,11 @@ a, a:hover{
     font-family: "gothampro_bold";
     font-size: 55px;
     color: #722ED1;
+}
+
+.footer-block{
+    padding-bottom: 416px;
+    background: url('../img/footer.png') center center/cover no-repeat;
 }
 
 @font-face {
