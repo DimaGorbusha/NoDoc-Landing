@@ -222,11 +222,6 @@ a, a:hover{
     color: #722ED1;
 }
 
-.footer-block{
-    padding-bottom: 416px;
-    background: url('../img/footer.png') center center/cover no-repeat;
-}
-
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
