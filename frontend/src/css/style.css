@@ -52,7 +52,7 @@ nav {
 
 #menu-button-reg{
     font-family: "gothampro_medium";
-    padding: 5px 59px 5px 59px;
+    padding: 10px 59px 10px 59px;
     margin-right: 28px;  
     background: #FFFFFF;
     border-radius: 12px;
@@ -81,6 +81,10 @@ nav {
     color: #F8F8FA;
     background: #262626;
     transform: scale(1.1);
+}
+
+.container-flex-menu{
+    margin-left: 128px;
 }
 
 .container-flex {
