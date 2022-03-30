@@ -210,10 +210,6 @@ a, a:hover{
     color: #722ED1;
 }
 
-.footer-block{
-    background: url('../img/footer.png');
-}
-
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
