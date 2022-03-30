@@ -52,7 +52,8 @@ nav {
 
 #menu-button-reg{
     font-family: "gothampro_medium";
-    padding: 5px 59px 5px 59px;  
+    padding: 5px 59px 5px 59px;
+    margin-right: 28px;  
     background: #FFFFFF;
     border-radius: 12px;
     color: #722ED1;
