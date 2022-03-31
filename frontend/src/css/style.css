@@ -227,6 +227,12 @@ a, a:hover{
     margin-bottom: 200px;
 }
 
+.container-adv-com h2{
+    font-family: "gothampro_bold";
+    font-size: 37px;
+    color:#262626;
+}
+
 .container-team{
     margin-left: 123px;
     margin-bottom: 155px;
