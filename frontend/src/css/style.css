@@ -224,12 +224,24 @@ a, a:hover{
 
 .container-adv-com{
     margin-left: 123px;
-
+    margin-bottom: 136px;
 }
 
 .container-team{
-    margin-left: 295px;
+    margin-left: 123px;
     margin-bottom: 155px;
+}
+
+.container-team h2{
+    font-family: "gothampro_bold";
+    font-size: 37px;
+    color:#262626;
+    margin-bottom: 82px;
+}
+
+.container-team-flex{
+    display: flex;
+    align-items: center;
 }
 
 .container-team img{
