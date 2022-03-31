@@ -223,18 +223,8 @@ a, a:hover{
 }
 
 .container-adv-com{
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    align-items: center;
-}
+    margin-left: 123px;
 
-.adv-com-right{
-
-}
-
-.adv-com-left{
-    
 }
 
 .container-team{
