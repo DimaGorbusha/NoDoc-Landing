@@ -240,7 +240,7 @@ a, a:hover{
 
 .container-footer{
     padding-bottom: 295px;
-    background: url('../img/footer.png');
+    background: url('../img/footer.png') center center/cover no-repeat;
 }
 
 @font-face {
