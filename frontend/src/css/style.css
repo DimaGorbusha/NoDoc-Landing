@@ -224,7 +224,7 @@ a, a:hover{
 
 .container-adv-com{
     margin-left: 123px;
-    margin-bottom: 136px;
+    margin-bottom: 200px;
 }
 
 .container-team{
@@ -240,8 +240,7 @@ a, a:hover{
 }
 
 .container-team-flex{
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 .container-team img{
