@@ -197,6 +197,7 @@ a, a:hover{
 
 .container-docs{
     margin-left: 298px;
+    margin-bottom: 239px;
 }
 
 .container-docs h2{
@@ -204,10 +205,11 @@ a, a:hover{
     font-size: 37px;
     color: #722ED1;
     margin-left: 215px;
+    margin-bottom: 114px;
 }
 
 .docs-block{
-    margin-left: 225px;
+    margin-left: 75px;
 }
 
 .container-how-work{
