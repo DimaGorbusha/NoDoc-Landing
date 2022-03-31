@@ -203,23 +203,33 @@ a, a:hover{
     font-family: "gothampro_bold";
     font-size: 37px;
     color: #722ED1;
-
+    margin-left: 215px;
 }
 
 .container-how-work{
-    margin-left: 298px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
     align-items: center;
+    margin-bottom: 325px;
 
 }
 
 .container-how-work h2{
     font-family: "gothampro_bold";
-    font-size: 55px;
+    font-size: 37px;
     color: #722ED1;
+    margin-bottom: 75px;
+}
+
+.how-work-item{
+    margin-bottom:39px;
+    transition: all 0.5s ease
+}
+
+.how-work-item:hover{
+    transform: scale(1.1);
 }
 
 .container-adv-com{
