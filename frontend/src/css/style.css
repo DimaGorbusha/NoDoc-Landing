@@ -237,6 +237,11 @@ a, a:hover{
     transform: scale(1.1);
 }
 
+.container-footer{
+    padding-bottom: 295px;
+    background: url('../img/footer.png');
+}
+
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
