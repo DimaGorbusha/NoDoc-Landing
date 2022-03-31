@@ -206,6 +206,10 @@ a, a:hover{
     margin-left: 215px;
 }
 
+.docs-block{
+    margin-left: 225px;
+}
+
 .container-how-work{
     display: flex;
     flex-direction: column;
