@@ -222,6 +222,21 @@ a, a:hover{
     color: #722ED1;
 }
 
+.container-team{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.container-team img{
+    transition: all 0.5s ease
+}
+
+.container-team img:hover{
+    transform: scale(1.1);
+}
+
 @font-face {
     font-family: "gothampro_bold"; 
     src: url("../fonts/gothampro_bold.ttf") format("truetype"); 
