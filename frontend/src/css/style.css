@@ -222,11 +222,16 @@ a, a:hover{
     color: #722ED1;
 }
 
-.container-team{
+.container-adv-com{
     display: flex;
     justify-content: space-around;
     text-align: center;
     align-items: center;
+
+}
+
+.container-team{
+    margin-left: 295px;
     margin-bottom: 155px;
 }
 
