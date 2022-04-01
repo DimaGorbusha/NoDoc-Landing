@@ -99,18 +99,16 @@ nav {
     text-decoration: none;
 }
 
-/* .container-flex-menu{
-    display: flex;
-	align-items: center;
-    text-decoration: none;
-} */
-
 .navbar-top{
     margin: 91px 0 0 0;
 }
 
 a, a:hover{
     text-decoration: none;
+}
+
+.offer{
+    background: url('../img/back.png') right no-repeat;
 }
 
 .container-offer{
