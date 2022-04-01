@@ -9,14 +9,14 @@ html {
 }
 
 body {
-    background: #F8F8FA;
+    background: #F3F1F8;
 }
 
 nav {
     display: block;
 }
 
-header {
+.header {
     background: url('../img/back.png') right no-repeat;
 }
 
@@ -104,7 +104,7 @@ header {
 }
 
 .navbar-top{
-    padding: 91px 0 0 0;
+    padding: 60px 0 0 0;
 }
 
 a, a:hover{
@@ -130,6 +130,10 @@ a, a:hover{
     font-size: 19px;
     font-family: "gothampro_medium";
     color: #888888;
+}
+
+.offer-main-text-special{
+    color: #722ED1;
 }
 
 .offer-button{
@@ -161,6 +165,10 @@ a, a:hover{
     font-family: "gothampro_medium";
 }
 
+.descr-text-special{
+    color: #722ED1;
+}
+
 .container-adv{
     margin-left: 123px;
     margin-bottom: 260px;
@@ -170,6 +178,10 @@ a, a:hover{
     margin-top: 76px;
     display: flex;
     align-items: center;
+}
+
+.adv-special{
+    color: #722ED1;
 }
 
 .text-adv{
@@ -186,6 +198,10 @@ a, a:hover{
 
 .adv-qr{
     margin-right: 222px;
+}
+
+.adv-qr-special{
+    color: #722ED1;
 }
 
 .advantages-user-block h2{
